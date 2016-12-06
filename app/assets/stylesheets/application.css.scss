@@ -14,7 +14,9 @@
  *= require_self
  */
 
+@import 'bootstrap-sprockets';
+@import 'bootstrap';
 
 h1, h2, h3 {
-    font-family: 'Oswald', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
